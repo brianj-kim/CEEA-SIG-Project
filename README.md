@@ -5,7 +5,7 @@ University class project designing a community platform of Special Interest Grou
 Jiwoun, 
 
 ## Project background (business need/opportunity)
-Designing a platform that can support SIG network(s): networking each member geographically and networking the conference papers thematically
+Designing a platform that can support SIG network(s) in networking each member geographically and thematically (according to the special interests)
 
 ## North Star and Carry Over Customers
 - Special Interest Goup of 'Humanities in Engineering' Group (North Start) 
