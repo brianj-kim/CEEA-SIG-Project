@@ -2,7 +2,7 @@
 University class project designing a community platform of Special Interest Group (SIG, 'Humanities in Engineering Education') from the CEEA.
 
 ## Project Team members
-- Ji Woun Kim
+- Jiwoun Kim
 - Stephanie Ndulue
 - Pratik Gadhiya
 - Vishvaben Pradipbhai Shah
