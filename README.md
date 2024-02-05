@@ -2,10 +2,10 @@
 University class project designing a community platform of Special Interest Group (SIG, 'Humanities in Engineering Education') from the CEEA.
 
 ## Project Team members
--Ji Woun Kim
--Stephanie Ndulue
--Pratik Gadhiya
--Vishvaben Pradipbhai Shah
+- Ji Woun Kim
+- Stephanie Ndulue
+- Pratik Gadhiya
+- Vishvaben Pradipbhai Shah
 
 ## Project background (business need/opportunity)
 The Engineering and Humanities Special Interest (SIG) Group is a SIG group within the Canadian Engineering Education Association / Association Canadienne de l’éducation en génie (CEEA-ACÉG) national organization that aims to create a space for individuals such as students, teachers, and non-engineering members who are interested in the intersections of engineering and humanities.  To achieve this, regular meetings are held online and in person at CEEA-ACEG conferences. These meetings create an avenue for engagement and valuable knowledge sharing but are not enough for sustainable networking and discussions. 
