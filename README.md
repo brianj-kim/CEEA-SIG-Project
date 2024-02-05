@@ -8,7 +8,7 @@ University class project designing a community platform of Special Interest Grou
 - Vishvaben Pradipbhai Shah
 
 ## Project background (business need/opportunity)
-The Engineering and Humanities Special Interest (SIG) Group is a SIG group within the Canadian Engineering Education Association / Association Canadienne de l’éducation en génie (CEEA-ACÉG) national organization that aims to create a space for individuals such as students, teachers, and non-engineering members who are interested in the intersections of engineering and humanities.  To achieve this, regular meetings are held online and in person at CEEA-ACEG conferences. These meetings create an avenue for engagement and valuable knowledge sharing but are not enough for sustainable networking and discussions. 
+The Engineering and Humanities Special Interest Group is a SIG group within the Canadian Engineering Education Association / Association Canadienne de l’éducation en génie (CEEA-ACÉG) national organization that aims to create a space for individuals such as students, teachers, and non-engineering members who are interested in the intersections of engineering and humanities.  To achieve this, regular meetings are held online and in person at CEEA-ACEG conferences. These meetings create an avenue for engagement and valuable knowledge sharing but are not enough for sustainable networking and discussions. 
 The goal of this project is to bridge to gulf by creating an online user-friendly platform that enhances visibility, facilitates research sharing, showcases events to the broader community, maps individual networks, and addresses the diversity of technology skills within the membership.
 
 
