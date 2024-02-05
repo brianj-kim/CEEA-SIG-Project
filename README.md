@@ -8,7 +8,8 @@ Jiwoun,
 Designing a platform that can support SIG network(s): networking each member geographically and networking the conference papers thematically
 
 ## North Star and Carry Over Customers
-SIG members of CEEA (North Start), Educator in Engineering (SIG members other than 'Humanities in Engineering' members), Universities' Educator who are interested in research networking
+- Special Interest Goup of 'Humanities in Engineering' Group (North Start) 
+- Educators in Engineering (All SIG members other than 'Humanities in Engineering' members), Universities' Educator who are interested in research networking (Carry Over)
 
 ## Assumptions
 Development Platform: Wordpress
