@@ -1,5 +1,5 @@
 # ENSE871-CEEA-SIG-Project
-University class project designing a community platform of Special Interest Group (SIG, 'Humanities in Engineering Education') from the CEEA.
+The goal of this project is to enhance communication and cooperation between academics, instructors, and professional working in the field of engineering and humanities, which is for a Special Interest Group (SIG) within the Canadian Engineering Education Association's (CEEA-ACÉG). They don't currently have enough time for extended contact at their monthly meetings at the CEEA-ACÉG conference. To meet with their goal, designing an online platform that will have elements like information exchange, event advertising, networking tools, user friendly interface, bilingual assistance, emember-only area, and building relationships both inside the SIG and outside, with the ultimate goal of promoting engineering education in contexts connected to the humanities.
 
 ## Project Team members
 - Jiwoun Kim
