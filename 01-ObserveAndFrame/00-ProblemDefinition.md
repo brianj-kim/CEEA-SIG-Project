@@ -1,4 +1,4 @@
-# ENSE871-CEEA-SIG-Project
+# Problem Definition
 The purpose of this project is to improve communication and cooperation between academics, instructors, and professionals working in the field of engineering education. In order to achieve the Engineering and Humanities SIG's objectives, the team is designing an online platform with features like networking tools, bilingual support, event advertising, information exchange, member-only areas, user friendly interfaces, and building relationships within and outside of the SIG with the ultimate goal of advancing engineering education in contexts related to the humanities.
 
 ## Project Team members
