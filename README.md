@@ -1,6 +1,6 @@
 # ENSE871-CEEA-SIG-Project
 
-The purpose of this project is to improve communication and cooperation between academics, instructors, and professionals working in the field of engineering education, especially the Engineering and Humanities Speical Interest Group within the Canadian Engineering Education Association / Association Canadienne de l’éducation en génie (CEEA-ACÉG). In order to achieve the Engineering and Humanities SIG's objectives, the team is designing an online platform with features like networking tools, bilingual support, event advertising, information exchange, member-only areas, user friendly interfaces, and building relationships within and outside of the SIG with the ultimate goal of advancing engineering education in contexts related to the humanities.
+The purpose of this project is to improve communication and cooperation between academics, instructors, and professionals working in the field of engineering education, especially the Engineering and Humanities Speical Interest Group within the Canadian Engineering Education Association / Association Canadienne de l’éducation en génie (CEEA-ACÉG). In order to achieve the SIG's objectives, the team is designing an online platform prospecting some features like networking tools, bilingual support, event advertising, information exchange, member-only areas, user friendly interfaces, and building relationships within and outside of the SIG with the ultimate goal of advancing engineering education in contexts related to the humanities.
 
 ## Project Team members
 - Jiwoun Kim
@@ -9,7 +9,7 @@ The purpose of this project is to improve communication and cooperation between 
 - Vishvaben Pradipbhai Shah
 
 ## Project background (business need/opportunity)
-The CEEA members, including SIG members, held conference once a year and meetups (roundtables) for monthly or bimonthly, and they don't currently have tools for in-depth, consistent, and sustainable communication channel over their conferences and meetups. And they are in need of a platform that fucilitate the communication channel, member networking for inside and outside of the organization, bilingual support, and information exchange portal for engineering educators.
+The CEEA-ACÉG, including Engineering and Humanities SIG members, hold conference once a year and meetups (roundtables) for monthly or bimonthly, and they don't currently have tools for in-depth, consistent, and sustainable communication channel over their conferences and meetups. And they are in need of a platform that facilitates the communication channel, member networking for inside and outside of the organization, bilingual support, and information exchange portal for engineering educators.
 
 
 ## North Star and Carry Over Customers
