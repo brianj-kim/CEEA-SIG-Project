@@ -12,10 +12,6 @@ The Canadian Engineering Education Association / Association Canadienne de l’�
 ## Reason for Project
 The purpose of this project is to improve communication and cooperation between academics, instructors, and professionals working in the field of engineering education, especially the Engineering and Humanities SIG within the CEEA-ACÉG. In order to achieve the SIG's objectives, the team is designing an online platform prospecting some features like networking tools, bilingual support, event advertising, information exchange, member-only areas, user friendly interfaces, and building relationships within and outside of the SIG with the ultimate goal of advancing engineering education in contexts related to the Engineering and Humanities.
 
-## North Star and Carry Over Customers
-- NorthStar (target) customer: Humanities and Engineering SIG members
-- Carryover customers: Other SIG members, Students, and engineering educators
-
 ## Important features
 Easy to use and user-friendly interface, minimize the administration work (because all the members are busy), and bilingual support, event advertising, information exchange (e.g. research interests), member profile management tool, networking tools for inside and outside of the CEEA-ACÉG.
 
