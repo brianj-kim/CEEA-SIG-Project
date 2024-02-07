@@ -9,8 +9,7 @@ The purpose of this project is to improve communication and cooperation between 
 - Vishvaben Pradipbhai Shah
 
 ## Project background (business need/opportunity)
-The CEEA members, including SIG members, held conference once a year and meetups (roundtables) for monthly or bimonthly, and they don't currently have tools for in-depth, consistent, and sustainable communication channel over their conferences and meetups. And they are in need of a platform that fucilitate the communication channel, member networking for inside and outside of the organization, bilingual support, and information exchange portal for engineering educators.
-
+The CEEA-ACÉG, including Engineering and Humanities SIG, holds conference once a year and meetups (roundtables) for monthly or bimonthly, and they don't currently have tools for in-depth, consistent, and sustainable communication channel over their conferences and meetups. And they are in need of a platform that facilitates the communication channel, member networking for inside and outside of the organization, bilingual support, and information exchange portal for engineering educators.
 
 ## North Star and Carry Over Customers
 - NorthStar (target) customer: Humanities and Engineering SIG members
