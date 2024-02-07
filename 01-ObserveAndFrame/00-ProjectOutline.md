@@ -1,6 +1,6 @@
 # Project Ouline
 
-## Project Team members
+## Team members
 - Jiwoun Kim
 - Stephanie Ndulue
 - Pratik Gadhiya
