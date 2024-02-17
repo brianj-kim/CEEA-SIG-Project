@@ -1,4 +1,4 @@
-# ENSE871-CEEA-SIG-Project
+# CEEA Special Interest Group (SIG, Humanities and Engineering) Networking Platform Project
 
 The purpose of this project is to improve communication and cooperation between academics, instructors, and professionals working in the field of engineering education, especially the Engineering and Humanities Speical Interest Group within the Canadian Engineering Education Association / Association Canadienne de l’éducation en génie (CEEA-ACÉG). In order to achieve the SIG's objectives, the team is designing an online platform prospecting some features like networking tools, bilingual support, event advertising, information exchange, member-only areas, user friendly interfaces, and building relationships within and outside of the SIG with the ultimate goal of advancing engineering education in contexts related to the Engineering and Humanities.
 
