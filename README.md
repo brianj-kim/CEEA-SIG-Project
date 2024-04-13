@@ -29,3 +29,7 @@ The constraints for this project are:
 - WordPress is a robust platform that also comes with its limitations that we would need to work around.
 - The project must be completed in a short period using the fast feedback cycle which can create some time constraints.
 - Free or cheap plugins will be used for this project which limits the resources available to us for this project.
+  
+## Useful Links
+- User Story Map: https://landofooo.storiesonboard.com/m/guidemap83
+- Working Site: http://99.79.127.11 
